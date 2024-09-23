@@ -12,9 +12,9 @@ Repositorio de prueba 2ASIR
 
 Esto es un párrafo de texto con palabras en **negrita**, otras palabras en *cursiva* y alguna palabra en 'código'.
 
-´´´
+```bash
 git clone URL
-´´´
+```
 
 1. Lista
 2. Ordenada
