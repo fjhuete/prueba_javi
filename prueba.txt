@@ -1,1 +1,1 @@
-Fichero de prueba para generar un conflicto
+Modificación del fichero para generar un conflicto
