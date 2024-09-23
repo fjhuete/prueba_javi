@@ -1,1 +1,3 @@
 Fichero de texto de la rama principal
+fusionado con
+Fichero de texto de la rama segunda
