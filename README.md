@@ -10,7 +10,7 @@ Repositorio de prueba 2ASIR
 # Título principal
 ## Subtítulo
 
-Esto es un párrafo de texto con palabras en **negrita**, otras palabras en *cursiva* y alguna palabra en 'código'.
+Esto es un párrafo de texto con palabras en **negrita**, otras palabras en *cursiva* y alguna palabra en `código`.
 
 ```bash
 git clone URL
