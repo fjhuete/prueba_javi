@@ -1,1 +1,1 @@
-Modificación del fichero para generar un conflicto
+Este fichero ha sido modificado para generar un conflicto
